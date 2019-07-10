@@ -1,0 +1,9 @@
+.countdowns {
+  display: flex;
+  justify-content: center;
+  margin: 25px;
+}
+.countdowns .countdown {
+  display: flex;
+  border: 1px solid gray;
+}
